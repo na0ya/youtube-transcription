@@ -1,6 +1,6 @@
 // Karma configuration
 // http://karma-runner.github.io/0.12/config/configuration-file.html
-// Generated on 2014-11-06 using
+// Generated on 2014-11-22 using
 // generator-karma 0.8.3
 
 module.exports = function(config) {
@@ -25,6 +25,7 @@ module.exports = function(config) {
       'bower_components/angular-resource/angular-resource.js',
       'bower_components/angular-route/angular-route.js',
       'bower_components/angular-sanitize/angular-sanitize.js',
+      'bower_components/angular-touch/angular-touch.js',
       'app/scripts/**/*.js',
       'test/mock/**/*.js',
       'test/spec/**/*.js'
